@@ -1,0 +1,1440 @@
+fileFormatVersion: 2
+guid: ae1aeabc89d076749b6211f3d4f8f0df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4343480827658231732
+    second: Mebelki itp_0
+  - first:
+      213: 2795028908001777598
+    second: Mebelki itp_1
+  - first:
+      213: 3687997540971310844
+    second: Mebelki itp_2
+  - first:
+      213: 213047334524702990
+    second: Mebelki itp_3
+  - first:
+      213: 2735432300534019339
+    second: Mebelki itp_4
+  - first:
+      213: 7656707645602273386
+    second: Mebelki itp_5
+  - first:
+      213: -980172423710730065
+    second: Mebelki itp_6
+  - first:
+      213: -1194788553203917628
+    second: Mebelki itp_7
+  - first:
+      213: -4771906228122021737
+    second: Mebelki itp_8
+  - first:
+      213: 6656720803952097620
+    second: Mebelki itp_9
+  - first:
+      213: 2296568900711298112
+    second: Mebelki itp_10
+  - first:
+      213: -584427566757731403
+    second: Mebelki itp_11
+  - first:
+      213: 4195333722456087956
+    second: Mebelki itp_12
+  - first:
+      213: 5340842308611544384
+    second: Mebelki itp_13
+  - first:
+      213: 8994793251470488136
+    second: Mebelki itp_14
+  - first:
+      213: 1796505481113809865
+    second: Mebelki itp_15
+  - first:
+      213: -8851398062643407307
+    second: Mebelki itp_16
+  - first:
+      213: -7165908028519485608
+    second: Mebelki itp_17
+  - first:
+      213: 8779646119832928656
+    second: Mebelki itp_18
+  - first:
+      213: -2033331779240576199
+    second: Mebelki itp_19
+  - first:
+      213: -2594355199891394058
+    second: Mebelki itp_20
+  - first:
+      213: -4727468294109563725
+    second: Mebelki itp_21
+  - first:
+      213: 4456630632539588167
+    second: Mebelki itp_22
+  - first:
+      213: 6767744026113172874
+    second: Mebelki itp_23
+  - first:
+      213: -3249014646317819805
+    second: Mebelki itp_24
+  - first:
+      213: 2511856670834828792
+    second: Mebelki itp_25
+  - first:
+      213: 6349565752298555403
+    second: Mebelki itp_26
+  - first:
+      213: 2824207925317022585
+    second: Mebelki itp_27
+  - first:
+      213: 5745926471753964537
+    second: Mebelki itp_28
+  - first:
+      213: 3025365949612862987
+    second: Mebelki itp_29
+  - first:
+      213: -7806882974307338589
+    second: Mebelki itp_30
+  - first:
+      213: -3867311927838271504
+    second: Mebelki itp_31
+  - first:
+      213: -4013813530825966992
+    second: Mebelki itp_32
+  - first:
+      213: 1920799154310215081
+    second: Mebelki itp_33
+  - first:
+      213: -6937145471674846474
+    second: Mebelki itp_34
+  - first:
+      213: -4833141084787758153
+    second: Mebelki itp_35
+  - first:
+      213: -8162163528743887715
+    second: Mebelki itp_36
+  - first:
+      213: -7557261292330954574
+    second: Mebelki itp_37
+  - first:
+      213: 4429485763454177817
+    second: Mebelki itp_38
+  - first:
+      213: 2417764113172083929
+    second: Mebelki itp_39
+  - first:
+      213: 3331960052535875255
+    second: Mebelki itp_40
+  - first:
+      213: -4400230916956561306
+    second: Mebelki itp_41
+  - first:
+      213: 7405359204755388210
+    second: Mebelki itp_42
+  - first:
+      213: 621541880309356946
+    second: Mebelki itp_43
+  - first:
+      213: 6550811308523213945
+    second: Mebelki itp_44
+  - first:
+      213: -1603126295675624598
+    second: Mebelki itp_45
+  - first:
+      213: 8125256351016263120
+    second: Mebelki itp_46
+  - first:
+      213: -2524648106865382886
+    second: Mebelki itp_47
+  - first:
+      213: 7208400399320108047
+    second: Mebelki itp_48
+  - first:
+      213: 3332268443949211001
+    second: Mebelki itp_49
+  - first:
+      213: 2440452964121138825
+    second: Mebelki itp_50
+  - first:
+      213: 5887668945079275371
+    second: Mebelki itp_51
+  - first:
+      213: 4532676305881375350
+    second: Mebelki itp_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mebelki itp_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 222
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfd94dccc4274c30800000000000000
+      internalID: 4343480827658231732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d46eabffe9c620800000000000000
+      internalID: 2795028908001777598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeeb1249366e2330800000000000000
+      internalID: 3687997540971310844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 237
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0150b60c65e4f200800000000000000
+      internalID: 213047334524702990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 234
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b5743f2536f520800000000000000
+      internalID: 2735432300534019339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 203
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6814256907124a60800000000000000
+      internalID: 7656707645602273386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 167
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa89612bf5ab562f0800000000000000
+      internalID: -980172423710730065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 187
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd39024224b6fe0800000000000000
+      internalID: -1194788553203917628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 195
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79010537198c6cdb0800000000000000
+      internalID: -4771906228122021737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45974886d4c616c50800000000000000
+      internalID: 6656720803952097620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 202
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0443b195f3d0fdf10800000000000000
+      internalID: 2296568900711298112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 124
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a5767932b3e7f0800000000000000
+      internalID: -584427566757731403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0451b2e58cb7e1a40800000000000000
+      internalID: 5340842308611544384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842baf54ecce3dc70800000000000000
+      internalID: 8994793251470488136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d5631fac1d83a30800000000000000
+      internalID: 4195333722456087956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b4de77387ee810800000000000000
+      internalID: 1796505481113809865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361f86db54892580800000000000000
+      internalID: -8851398062643407307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 76
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe9fa5d949d8c90800000000000000
+      internalID: -7165908028519485608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 111
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091474221a197d970800000000000000
+      internalID: 8779646119832928656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3ad3158728c3e0800000000000000
+      internalID: -2033331779240576199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13941f0bffefbd0800000000000000
+      internalID: -2594355199891394058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 111
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47daa32a8a46eb0800000000000000
+      internalID: -4727468294109563725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 111
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74685a3b2f129dd30800000000000000
+      internalID: 4456630632539588167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 55
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a856f3fa55bdbed50800000000000000
+      internalID: 6767744026113172874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 56
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685f28a46e29e2d0800000000000000
+      internalID: -3249014646317819805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f52ecf6558ebd220800000000000000
+      internalID: 2511856670834828792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08cdb709603e1850800000000000000
+      internalID: 6349565752298555403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733d50152a913720800000000000000
+      internalID: 2824207925317022585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb986ecea1adbf40800000000000000
+      internalID: 5745926471753964537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eac365d424cf920800000000000000
+      internalID: 3025365949612862987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6bd592c4168a390800000000000000
+      internalID: -7806882974307338589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f79191aa4c845ac0800000000000000
+      internalID: -3867311927838271504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a367c1cd11c48c0800000000000000
+      internalID: -4013813530825966992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 146
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f78d67ac08aa10800000000000000
+      internalID: 1920799154310215081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 70
+        width: 171
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27c95b2fe4abf90800000000000000
+      internalID: -6937145471674846474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 50
+        width: 171
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb21eb5acb3decb0800000000000000
+      internalID: -4833141084787758153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_36
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 30
+        width: 171
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c529ef38b2abe80800000000000000
+      internalID: -8162163528743887715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ddcb05e63f1790800000000000000
+      internalID: -7557261292330954574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912165c55d1b87d30800000000000000
+      internalID: 4429485763454177817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43f4ca6af9d8120800000000000000
+      internalID: 2417764113172083929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_40
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65139a3008d3e20800000000000000
+      internalID: 3331960052535875255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ec116b4d3fe2c0800000000000000
+      internalID: -4400230916956561306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_42
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2373d9126fe15c660800000000000000
+      internalID: 7405359204755388210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 99
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2991edc0c0920a800800000000000000
+      internalID: 621541880309356946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 126
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974532b6d2829ea50800000000000000
+      internalID: 6550811308523213945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 203
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63aa28b02d80c9e0800000000000000
+      internalID: -1603126295675624598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 203
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd9f4f0a95b2c070800000000000000
+      internalID: 8125256351016263120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 203
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2d674ce5a6fcd0800000000000000
+      internalID: -2524648106865382886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_48
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 247
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c4240b8f1690460800000000000000
+      internalID: 7208400399320108047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 241
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d16d1ae789e3e20800000000000000
+      internalID: 3332268443949211001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 194
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9865d717a0b3ed120800000000000000
+      internalID: 2440452964121138825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_51
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 194
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f8c8a16b335b150800000000000000
+      internalID: 5887668945079275371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mebelki itp_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a3e5c51d47ee30800000000000000
+      internalID: 4532676305881375350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

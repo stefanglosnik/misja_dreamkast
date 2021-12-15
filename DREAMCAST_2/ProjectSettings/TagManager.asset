@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collider
+  - Audio
+  - GroundCave
+  - Environment
+  - GroundSand
+  - ObjectCoin
+  - CharacterEnemy
+  - GroundStreet
+  - GroundStreet2
+  - GroundSand2
+  - ObjectCar
+  - ObjectEgg
+  - WeaponClub
+  - ObjectObstacle
+  - ObjectDiamond
+  - Crushable
+  - ObjectMixture
+  - ObjectCollectable
+  - ObjectWeapon
+  - ObjectBooster
+  - CharacterEnemyDropping
+  - ObjectDropping
+  - ObjectWeaponCollectable
+  - Apple
+  - Mask
+  - Button
+  - ButtonGameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: DistantBackground
+    uniqueID: 1003809277
+    locked: 0
+  - name: DrugiBackPlan
+    uniqueID: 818198421
+    locked: 0
+  - name: PierwszyBackPlan
+    uniqueID: 557867739
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PrzedGracze
+    uniqueID: 2953026223
+    locked: 0
+  - name: Mapa
+    uniqueID: 2034403019
+    locked: 0
+  - name: PrzedMapie
+    uniqueID: 1286666499
+    locked: 0
+  - name: UI
+    uniqueID: 2537530907
+    locked: 0

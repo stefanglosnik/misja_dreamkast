@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: dfa2e3e137d3a0c478bd6952dcdf5543
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -144579785024547633
+    second: postaci-nowe-i-dodatkowe_0
+  - first:
+      213: -1250404024104961024
+    second: postaci-nowe-i-dodatkowe_1
+  - first:
+      213: -2843344302043655911
+    second: postaci-nowe-i-dodatkowe_2
+  - first:
+      213: 753168905489092839
+    second: postaci-nowe-i-dodatkowe_3
+  - first:
+      213: 8350774419868108301
+    second: postaci-nowe-i-dodatkowe_4
+  - first:
+      213: 3216581109712284497
+    second: postaci-nowe-i-dodatkowe_5
+  - first:
+      213: -7980082110874679312
+    second: postaci-nowe-i-dodatkowe_6
+  - first:
+      213: 4388916058460143257
+    second: postaci-nowe-i-dodatkowe_7
+  - first:
+      213: -5126860171639427614
+    second: postaci-nowe-i-dodatkowe_8
+  - first:
+      213: -1354730790806804232
+    second: postaci-nowe-i-dodatkowe_9
+  - first:
+      213: -8992747971111303739
+    second: postaci-nowe-i-dodatkowe_10
+  - first:
+      213: 943607668824843576
+    second: postaci-nowe-i-dodatkowe_11
+  - first:
+      213: -812340532079840885
+    second: postaci-nowe-i-dodatkowe_12
+  - first:
+      213: 7630852146078565700
+    second: postaci-nowe-i-dodatkowe_13
+  - first:
+      213: -418470446588323798
+    second: postaci-nowe-i-dodatkowe_14
+  - first:
+      213: -1024140465316404111
+    second: postaci-nowe-i-dodatkowe_15
+  - first:
+      213: -6977307877223090524
+    second: postaci-nowe-i-dodatkowe_16
+  - first:
+      213: -5636521976015513395
+    second: postaci-nowe-i-dodatkowe_17
+  - first:
+      213: -2328865182728613640
+    second: postaci-nowe-i-dodatkowe_18
+  - first:
+      213: 9063539809493304313
+    second: postaci-nowe-i-dodatkowe_19
+  - first:
+      213: -5026486779699107589
+    second: postaci-nowe-i-dodatkowe_20
+  - first:
+      213: -2792257873755593391
+    second: postaci-nowe-i-dodatkowe_21
+  - first:
+      213: -8467532488854726821
+    second: postaci-nowe-i-dodatkowe_22
+  - first:
+      213: -2436496404138437517
+    second: postaci-nowe-i-dodatkowe_23
+  - first:
+      213: 3231772102359894651
+    second: postaci-nowe-i-dodatkowe_24
+  - first:
+      213: -8729399151808388761
+    second: postaci-nowe-i-dodatkowe_25
+  - first:
+      213: 4704855742070719782
+    second: postaci-nowe-i-dodatkowe_26
+  - first:
+      213: 8978702128646838237
+    second: postaci-nowe-i-dodatkowe_27
+  - first:
+      213: -3327152652309977897
+    second: postaci-nowe-i-dodatkowe_28
+  - first:
+      213: 7584881180608586448
+    second: postaci-nowe-i-dodatkowe_29
+  - first:
+      213: -1763971480682181917
+    second: postaci-nowe-i-dodatkowe_30
+  - first:
+      213: -7829302771752205837
+    second: postaci-nowe-i-dodatkowe_31
+  - first:
+      213: -3654726082608495894
+    second: postaci-nowe-i-dodatkowe_32
+  - first:
+      213: -3370672917358931229
+    second: postaci-nowe-i-dodatkowe_33
+  - first:
+      213: 4764265005992310232
+    second: postaci-nowe-i-dodatkowe_34
+  - first:
+      213: -6370846244099235801
+    second: postaci-nowe-i-dodatkowe_35
+  - first:
+      213: -2366062297117316693
+    second: postaci-nowe-i-dodatkowe_36
+  - first:
+      213: 5422641971398810726
+    second: postaci-nowe-i-dodatkowe_37
+  - first:
+      213: 8228723595399709429
+    second: postaci-nowe-i-dodatkowe_38
+  - first:
+      213: 4510988502300063025
+    second: postaci-nowe-i-dodatkowe_39
+  - first:
+      213: -555469480148203297
+    second: postaci-nowe-i-dodatkowe_40
+  - first:
+      213: -3077783590748543399
+    second: postaci-nowe-i-dodatkowe_41
+  - first:
+      213: -554080858812360982
+    second: postaci-nowe-i-dodatkowe_42
+  - first:
+      213: -970832459737440824
+    second: postaci-nowe-i-dodatkowe_43
+  - first:
+      213: 7510315880041185046
+    second: postaci-nowe-i-dodatkowe_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d8e793795efdf0800000000000000
+      internalID: -144579785024547633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c318d3a2ca5aee0800000000000000
+      internalID: -1250404024104961024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 109
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119e860c696a88d0800000000000000
+      internalID: -2843344302043655911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 109
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e01c8b012bc37a00800000000000000
+      internalID: 753168905489092839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 109
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0648af2719e3e370800000000000000
+      internalID: 8350774419868108301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be1a32a7793ac20800000000000000
+      internalID: 3216581109712284497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78dd6b99d014190800000000000000
+      internalID: -7980082110874679312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e3685d6ef88ec30800000000000000
+      internalID: 4388916058460143257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed655056dbb9d8b0800000000000000
+      internalID: -5126860171639427614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82daff587033de0800000000000000
+      internalID: -1354730790806804232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 35
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5cb4bad57533380800000000000000
+      internalID: -8992747971111303739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835a3a3ec2e581d00800000000000000
+      internalID: 943607668824843576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81babc079cf9b4f0800000000000000
+      internalID: -812340532079840885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454a8cc89b36e960800000000000000
+      internalID: 7630852146078565700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289a12985b413af0800000000000000
+      internalID: -418470446588323798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17466b44ca589c1f0800000000000000
+      internalID: -1024140465316404111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a63599f37f9b2f90800000000000000
+      internalID: -6977307877223090524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc899ea502d07c1b0800000000000000
+      internalID: -5636521976015513395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f09fa584753eafd0800000000000000
+      internalID: -2328865182728613640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 76
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c570af6928cd70800000000000000
+      internalID: 9063539809493304313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf866d3c7e45e3ab0800000000000000
+      internalID: -5026486779699107589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 50
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a2810248ef39d0800000000000000
+      internalID: -2792257873755593391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571cb570184d7a80800000000000000
+      internalID: -8467532488854726821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374dfc6fd63df2ed0800000000000000
+      internalID: -2436496404138437517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 11
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7acd2cba9f89dc20800000000000000
+      internalID: 3231772102359894651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616dd5c8b1fad680800000000000000
+      internalID: -8729399151808388761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250599be510b4140800000000000000
+      internalID: 4704855742070719782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 109
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d90ac302ca9c70800000000000000
+      internalID: 8978702128646838237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 109
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a09d6a4493d1d0800000000000000
+      internalID: -3327152652309977897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 108
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d268b15f39e24960800000000000000
+      internalID: 7584881180608586448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 107
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac404c84d1587e0800000000000000
+      internalID: -1763971480682181917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 71
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18aba4c9ab85390800000000000000
+      internalID: -7829302771752205837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae204cecdfdc74dc0800000000000000
+      internalID: -3654726082608495894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e29aca17d6f831d0800000000000000
+      internalID: -3370672917358931229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5fef1e7c11e1240800000000000000
+      internalID: 4764265005992310232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72065dd58153697a0800000000000000
+      internalID: -6370846244099235801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_36
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a0ef60ee0a2fd0800000000000000
+      internalID: -2366062297117316693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c99518428114b40800000000000000
+      internalID: 5422641971398810726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ccaa238c423270800000000000000
+      internalID: 8228723595399709429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135777184204a9e30800000000000000
+      internalID: 4510988502300063025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8023863739a48f0800000000000000
+      internalID: -555469480148203297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 35
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95628e981248945d0800000000000000
+      internalID: -3077783590748543399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae655a105628f48f0800000000000000
+      internalID: -554080858812360982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd5ee48509e682f0800000000000000
+      internalID: -970832459737440824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postaci-nowe-i-dodatkowe_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f74d460800a3860800000000000000
+      internalID: 7510315880041185046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
